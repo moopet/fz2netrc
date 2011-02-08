@@ -1,0 +1,6 @@
+Trivial script to convert Filezilla's site-manager format into .netrc format.
+
+Usage:
+$ python fz2netrc <~/.filezilla/sitemanager.xml >~/.netrc
+$ chmod 600 ~/.netrc
+
